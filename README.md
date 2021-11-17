@@ -4,5 +4,5 @@ Repository of the paper "LEARNING DEEP MODELS FROM WEAK LABELS FOR WATER SURFACE
 
 # UNDER CONSTRUCTION - REPO WILL BE READY FEW DAYS BEFORE THE CONFERENCE
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](\"https://colab.research.google.com/github/francescoasaro/IGARSS21/blob/main/IGARSS21.ipynb\")
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(\"https://colab.research.google.com/github/francescoasaro/IGARSS21/blob/main/IGARSS21.ipynb\")
 
