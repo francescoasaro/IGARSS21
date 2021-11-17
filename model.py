@@ -1,4 +1,6 @@
-class BaselineUnet4(nn.Module):
+import torch 
+
+class BaselineUnet4(torch.nn.Module):
     '''
     This class implements a simple UNet as in Ronneberger et al, but deprived of one encoding/decoding block.
     This is done in order to handle the flow of information in the bottleneck, associated to the smaller 128x128 shaped patches used in our paper.
