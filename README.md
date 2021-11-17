@@ -1,7 +1,8 @@
-# IGARSS21
-Repository of the paper "LEARNING DEEP MODELS FROM WEAK LABELS FOR WATER SURFACE SEGMENTATION IN SAR IMAGES" presented at IGARSS 2021
+# Learning Deep Models from Weak Labels for Water Surface Segmentation in SAR Images
+
+Repository of the paper "Learning Deep Models from Weak Labels for Water Surface Segmentation in SAR Images" presented at IGARSS 2021
 
 
-# UNDER CONSTRUCTION - REPO WILL BE READY FEW DAYS BEFORE THE CONFERENCE
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francescoasaro/IGARSS21/blob/main/IGARSS21.ipynb)
