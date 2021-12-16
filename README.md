@@ -18,3 +18,20 @@ zenodo_get 5707779
 A test notebook is available. You can try it local or play directly with it on Colab!     
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francescoasaro/IGARSS21/blob/main/notebooks/IGARSS21.ipynb)
+
+## BibTeX
+
+```
+@inproceedings{asaro2021learning,
+  title={Learning Deep Models from Weak Labels for Water Surface Segmentation in SAR Images},
+  author={Asaro, Francesco and Murdaca, Gianluca and Prati, Claudio Maria},
+  booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS},
+  pages={6048--6051},
+  year={2021},
+  organization={IEEE}
+}
+```
+
+## Contacts
+
+If you have any question, please email `francesco.asaro@polimi.it`.
